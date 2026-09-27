@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add the absolute production sitemap URL here after the clinic’s domain is approved.
